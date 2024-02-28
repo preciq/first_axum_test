@@ -1,0 +1,6 @@
+employee_id,name,department,position,email,phone
+301,Michael Scott,Sales,Manager,michael.scott@example.com,555-0101
+302,Jim Halpert,Sales,Representative,jim.halpert@example.com,555-0102
+303,Pam Beesly,Reception,Receptionist,pam.beesly@example.com,555-0103
+304,Dwight Schrute,Sales,Assistant Manager,dwight.schrute@example.com,555-0104
+305,Angela Martin,Accounting,Accountant,angela.martin@example.com,555-0105
